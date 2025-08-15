@@ -35,7 +35,7 @@ class _ResultState extends State<Result> {
               gradient: LinearGradient(
                 begin: Alignment.topCenter,
                 end: Alignment.bottomCenter,
-                colors: state.winStack >= 51
+                colors: state.winStack >= 50
                     ? [Color(0xff205104), Color(0xffa4ecb5)]
                     : [Color(0xffF54927), Color(0xffF09986)],
               ),
@@ -50,7 +50,7 @@ class _ResultState extends State<Result> {
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         SizedBox(height: 40),
-                        state.winStack >= 51
+                        state.winStack >= 50
                             ? Image.asset(Assets.celebration)
                             : Image.asset(Assets.badLuck),
 

@@ -60,7 +60,7 @@ class _HomeState extends State<Home> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
-                          Text(Strings.quiz, style: TextStyle(fontSize: 24)),
+                          Text(Strings.quiz, style: TextStyle(fontSize: 20)),
                           Image.asset(Assets.quiz, height: 100),
                         ],
                       ),
@@ -84,7 +84,7 @@ class _HomeState extends State<Home> {
                         children: [
                           Text(
                             Strings.leaderboard,
-                            style: TextStyle(fontSize: 24),
+                            style: TextStyle(fontSize: 20),
                           ),
                           Image.asset(Assets.leaderboard, height: 100),
                         ],
