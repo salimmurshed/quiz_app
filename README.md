@@ -14,9 +14,9 @@ for generating
 \
 \
 <img alt="splash screen" src="assets/md_img/img.png" width="300"/>
-<img src="assets/md_img/img-1.png" alt="home screen" width="300">
-<img src="assets/md_img/img-2.png" alt="leaderboard screen" width="300">
-<img src="assets/md_img/img-3.png" alt="quiz screen" width="300">
-<img src="assets/md_img//img-4.png" alt="failed screen" width="300">
-<img src="assets/md_img//img-5.png" alt="success screen" width="300">
+<img src="assets/md_img/img_1.png" alt="home screen" width="300">
+<img src="assets/md_img/img_2.png" alt="leaderboard screen" width="300">
+<img src="assets/md_img/img_3.png" alt="quiz screen" width="300">
+<img src="assets/md_img//img_4.png" alt="failed screen" width="300">
+<img src="assets/md_img//img_5.png" alt="success screen" width="300">
 
