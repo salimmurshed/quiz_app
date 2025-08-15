@@ -13,7 +13,7 @@ for generating
 \
 \
 \
-<img src="https://i.ibb.co.com/PsGp7n6t/img.png" alt="splash screen" width="300">
+<img src="assets/md_image/img.png" alt="splash screen" width="300">
 <img src="https://i.ibb.co.com/G4gqTVQk/img-1.png" alt="home screen" width="300">
 <img src="https://i.ibb.co.com/Fk7C5wxH/img-2.png" alt="leaderboard screen" width="300">
 <img src="https://i.ibb.co.com/xq2WXm0y/img-3.png" alt="quiz screen" width="300">
